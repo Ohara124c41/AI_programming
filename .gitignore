@@ -1,0 +1,7 @@
+
+# Large artifacts
+miniconda*.sh
+*.pth
+*.pt
+*.h5
+*.onnx
