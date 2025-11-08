@@ -5,3 +5,7 @@ miniconda*.sh
 *.pt
 *.h5
 *.onnx
+
+# Python cache
+__pycache__/
+*.py[cod]
